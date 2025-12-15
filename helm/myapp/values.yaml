@@ -1,0 +1,7 @@
+image:
+  repository: abdessamaddevops/flask-app
+  tag: "v1"
+
+service:
+  type: NodePort
+  port: 30001
